@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iq-map/static/css/main.de98d5a0.css",
+    "main.js": "/iq-map/static/js/main.4bc423cf.js",
+    "static/js/453.414c70a8.chunk.js": "/iq-map/static/js/453.414c70a8.chunk.js",
+    "index.html": "/iq-map/index.html",
+    "main.de98d5a0.css.map": "/iq-map/static/css/main.de98d5a0.css.map",
+    "main.4bc423cf.js.map": "/iq-map/static/js/main.4bc423cf.js.map",
+    "453.414c70a8.chunk.js.map": "/iq-map/static/js/453.414c70a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de98d5a0.css",
+    "static/js/main.4bc423cf.js"
+  ]
+}
